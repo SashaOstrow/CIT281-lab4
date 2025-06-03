@@ -1,3 +1,4 @@
+# Lab 4
 Lab goals and outcomes:
 
     Part 1: Create initial Express Node.js web server
@@ -14,3 +15,6 @@ Your updated code must:
     Use JavaScript object deconstruction to extract the first and last property values in variables called first and last from the req.query object
     Use a ternary (? :) conditional operator to initialize a constant variable name to either "Guest" or use the query string values
     Use a template string literal within the send() method to return the name variable
+
+This lab introduced the process of building a basic web server using **Node.js** and **Express**, while also practicing **npm package management**, **HTTP route handling**, **MIME types**, **query parameters**, and **version control with Git**.
+
